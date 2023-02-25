@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fishing Minecraft Server</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Fishing Minecraft Server</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Store</a></li>
+				<li><a href="#">Support</a></li>
+				<li><a href="#">Vote</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<section>
+			<h2>Welcome to Fishing Minecraft Server</h2>
+			<p>Join our fishing community and explore our unique fishing-themed Minecraft world.</p>
+			<p>Compete in weekly fishing tournaments and earn unique rewards.</p>
+		</section>
+
+		<section>
+			<h2>Latest News</h2>
+			<ul>
+				<li><a href="#">New fishing tournament announced!</a></li>
+				<li><a href="#">Server maintenance scheduled for next week</a></li>
+			</ul>
+		</section>
+
+		<section>
+			<h2>Our Store</h2>
+			<p>Visit our store to purchase exclusive fishing gear and other items.</p>
+			<a href="#" class="button">Visit Store</a>
+		</section>
+
+		<section>
+			<h2>Support</h2>
+			<p>Need help? Visit our support page to get assistance from our team.</p>
+			<a href="#" class="button">Visit Support Page</a>
+		</section>
+
+		<section>
+			<h2>Vote for Us</h2>
+			<p>Help us grow our community by voting for us on Minecraft server lists.</p>
+			<a href="#" class="button">Vote Now</a>
+		</section>
+	</main>
+
+	<footer>
+		<p>&copy; 2023 Fishing Minecraft Server. All rights reserved.</p>
+	</footer>
+</body>
+</html>
